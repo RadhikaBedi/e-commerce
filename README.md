@@ -16,8 +16,7 @@ This is a responsive e-commerce website built using HTML, CSS, and JavaScript.
 ## 🌐 Live Demo
 https://e-commercewebsiteradhika.netlify.app/
 
-## 📸 Screenshots
-(Add screenshots here)
 
 ## 📌 Author
 Radhika Bedi
+
